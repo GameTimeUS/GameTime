@@ -1,337 +1,97 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("images/GameTimeLogoGitHub1.png");
+}
+
 .u-section-1 .u-sheet-1 {
-  min-height: 500px;
+  min-height: 824px;
 }
 
 .u-section-1 .u-text-1 {
-  font-family: Audiowide;
-  line-height: 0.6;
-  letter-spacing: -1px;
-  background-image: none;
-  font-weight: normal;
-  margin: 20px 0 60px;
-}.u-section-2 .u-sheet-1 {
-  min-height: 1319px;
-}
-
-.u-section-2 .u-image-1 {
-  width: 180px;
-  height: 180px;
-  margin: 19px auto 0;
-}
-
-.u-section-2 .u-btn-1 {
-  background-image: linear-gradient(#d19469, #663828);
-  border-style: none;
-  font-family: Audiowide;
-  font-size: 1.25rem;
-  margin: 19px auto 0;
-  padding: 28px 137px 29px 135px;
-}
-
-.u-section-2 .u-btn-2 {
-  background-image: linear-gradient(#d19469, #663828);
-  border-style: none;
-  font-family: Audiowide;
-  font-size: 1.25rem;
-  margin: 70px auto 0;
-  padding: 28px 94px 29px 92px;
-}
-
-@media (max-width: 1199px) {
-  .u-section-2 .u-btn-1 {
-    margin-left: 0;
-  }
-
-  .u-section-2 .u-btn-2 {
-    margin-left: 0;
-  }
-}
-
-@media (max-width: 991px) {
-  .u-section-2 .u-btn-1 {
-    margin-left: auto;
-  }
-
-  .u-section-2 .u-btn-2 {
-    margin-left: auto;
-  }
-}
-
-@media (max-width: 575px) {
-  .u-section-2 .u-sheet-1 {
-    min-height: 485px;
-  }
-
-  .u-section-2 .u-image-1 {
-    width: 126px;
-    height: 126px;
-  }
-
-  .u-section-2 .u-btn-1 {
-    align-self: center;
-    margin-top: 23px;
-    padding-top: 27px;
-    padding-right: 66px;
-    padding-left: 65px;
-  }
-
-  .u-section-2 .u-btn-2 {
-    margin-top: 71px;
-    margin-bottom: 60px;
-    padding-right: 22px;
-    padding-bottom: 28px;
-    padding-left: 22px;
-  }
-}.u-section-3 .u-sheet-1 {
-  min-height: 1319px;
-}
-
-.u-section-3 .u-image-1 {
-  width: 180px;
-  height: 180px;
-  margin: 19px auto 0;
-}
-
-.u-section-3 .u-btn-1 {
-  background-image: linear-gradient(#2fd8c9, #04a4aa);
-  border-style: none;
-  font-family: Audiowide;
-  font-size: 1.25rem;
-  margin: 19px auto 0;
-  padding: 28px 137px 29px 135px;
-}
-
-.u-section-3 .u-btn-2 {
-  background-image: linear-gradient(#2fd8c9, #04a4aa);
-  border-style: none;
-  font-family: Audiowide;
-  font-size: 1.25rem;
-  margin: 70px auto 0;
-  padding: 28px 94px 29px 92px;
-}
-
-@media (max-width: 1199px) {
-  .u-section-3 .u-btn-1 {
-    margin-left: 0;
-  }
-
-  .u-section-3 .u-btn-2 {
-    margin-left: 0;
-  }
-}
-
-@media (max-width: 991px) {
-  .u-section-3 .u-btn-1 {
-    margin-left: auto;
-  }
-
-  .u-section-3 .u-btn-2 {
-    margin-left: auto;
-  }
-}
-
-@media (max-width: 575px) {
-  .u-section-3 .u-sheet-1 {
-    min-height: 486px;
-  }
-
-  .u-section-3 .u-image-1 {
-    width: 126px;
-    height: 126px;
-  }
-
-  .u-section-3 .u-btn-1 {
-    align-self: center;
-    margin-top: 23px;
-    padding-top: 27px;
-    padding-right: 66px;
-    padding-left: 65px;
-  }
-
-  .u-section-3 .u-btn-2 {
-    margin-top: 71px;
-    margin-bottom: 60px;
-    padding-right: 22px;
-    padding-bottom: 28px;
-    padding-left: 22px;
-  }
-}.u-section-4 .u-sheet-1 {
-  min-height: 500px;
-}
-
-.u-section-4 .u-text-1 {
-  font-weight: 400;
-  font-family: Audiowide;
-  margin: 20px 0 0 20px;
-}
-
-.u-section-4 .u-image-1 {
-  width: 276px;
-  height: 135px;
-  margin: 23px auto 0;
-}
-
-.u-section-4 .u-btn-1 {
-  font-family: Audiowide;
-  animation-duration: 1000ms;
-  background-image: none;
-  border-style: none;
-  margin: 20px auto 60px;
-  padding: 10px 104px;
-}
-
-@media (max-width: 1199px) {
-  .u-section-4 .u-text-1 {
-    margin-left: 0;
-  }
-
-  .u-section-4 .u-image-1 {
-    height: 134px;
-  }
-}
-
-@media (max-width: 575px) {
-  .u-section-4 .u-sheet-1 {
-    min-height: 575px;
-  }
-
-  .u-section-4 .u-image-1 {
-    width: 138px;
-    height: 83px;
-    margin-top: 60px;
-  }
-
-  .u-section-4 .u-btn-1 {
-    margin-top: 34px;
-    padding-right: 25px;
-    padding-left: 24px;
-  }
-}.u-section-5 .u-sheet-1 {
-  min-height: 828px;
-}
-
-.u-section-5 .u-text-1 {
-  font-weight: 400;
-  font-family: Audiowide;
-  margin: 12px 179px 0 140px;
-}
-
-.u-section-5 .u-text-2 {
-  font-family: Audiowide;
-  margin: 44px 0;
-}
-
-@media (max-width: 1199px) {
-  .u-section-5 .u-text-1 {
-    margin-right: 79px;
-    margin-left: 40px;
-  }
-}
-
-@media (max-width: 991px) {
-  .u-section-5 .u-text-1 {
-    margin-right: 0;
-    margin-left: 0;
-  }
-}.u-section-6 .u-sheet-1 {
-  min-height: 168px;
-}
-
-.u-section-6 .u-social-icons-1 {
-  height: 48px;
-  min-height: 16px;
-  width: 267px;
-  min-width: 139px;
-  white-space: nowrap;
-  margin: 54px auto;
-}
-
-.u-section-6 .u-icon-1 {
-  height: 100%;
-  color: rgb(17, 17, 17) !important;
-}
-
-.u-section-6 .u-icon-2 {
-  height: 100%;
-  color: rgb(17, 17, 17) !important;
-}
-
-.u-section-6 .u-icon-3 {
-  height: 100%;
-  color: rgb(17, 17, 17) !important;
-}
-
-.u-section-6 .u-icon-4 {
-  height: 100%;
-  color: rgb(0, 137, 203) !important;
-}
-
-@media (max-width: 1199px) {
-  .u-section-6 .u-social-icons-1 {
-    width: 194px;
-    min-width: 98px;
-  }
-}
-
-@media (max-width: 575px) {
-  .u-section-6 .u-social-icons-1 {
-    height: 63px;
-    width: 328px;
-    min-width: 139px;
-    margin-top: 52px;
-    margin-bottom: 51px;
-  }
-}.u-section-7 {
-  background-image: none;
-}
-
-.u-section-7 .u-sheet-1 {
-  min-height: 502px;
-}
-
-.u-section-7 .u-text-1 {
-  width: 550px;
+  font-size: 6rem;
   font-weight: 700;
-  font-family: Audiowide;
-  margin: 60px auto 0;
+  font-family: SportypoReguler-OVGwe;
+  width: 891px;
+  margin: 264px auto 0;
 }
 
-.u-section-7 .u-form-1 {
-  width: 570px;
-  margin: 30px auto 60px;
+.u-section-1 .u-text-2 {
+  font-family: Oswald;
+  font-size: 2.25rem;
+  margin: 27px 0 0;
 }
 
-.u-section-7 .u-input-1 {
-  text-transform: uppercase;
-}
-
-.u-section-7 .u-input-2 {
-  text-transform: uppercase;
-}
-
-.u-section-7 .u-btn-1 {
+.u-section-1 .u-btn-1 {
   background-image: none;
-  border-style: solid;
   text-transform: uppercase;
-  letter-spacing: 2px;
+  font-weight: 700;
+  margin: 53px auto 60px 493px;
+}
+
+@media (max-width: 1199px) {
+   .u-section-1 {
+    min-height: 824px;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 679px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 285px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 56px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-left: 293px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 520px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 218px;
+    width: 720px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-left: 73px;
+  }
 }
 
 @media (max-width: 767px) {
-  .u-section-7 .u-text-1 {
+  .u-section-1 .u-sheet-1 {
+    min-height: 390px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 164px;
     width: 540px;
   }
 
-  .u-section-7 .u-form-1 {
-    width: 540px;
+  .u-section-1 .u-btn-1 {
+    margin-left: 0;
   }
 }
 
 @media (max-width: 575px) {
-  .u-section-7 .u-text-1 {
-    width: 340px;
+  .u-section-1 .u-sheet-1 {
+    min-height: 246px;
   }
 
-  .u-section-7 .u-form-1 {
+  .u-section-1 .u-text-1 {
+    font-size: 3.75rem;
+    margin-left: 103px;
     width: 340px;
   }
+}@font-face {
+  font-family: 'SportypoReguler-OVGwe';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/SportypoReguler-OVGwe.ttf);
 }
