@@ -34,4 +34,9 @@
   .u-section-1 .u-text-2 {
     width: 340px;
   }
+}@font-face {
+  font-family: 'SportypoReguler-OVGwe';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/SportypoReguler-OVGwe.ttf);
 }
